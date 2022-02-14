@@ -19,3 +19,5 @@ Limitantes de la implementacion:
    theta = El angulo formado con el eje real del primer cuadrante
  
  Los valores de las raices cubicas pueden tener un error de aproximacion
+
+Un posible link de interes para verificar los resultados de la implementacion generada, puede verse en: https://www.calculatorsoup.com/calculators/algebra/cubicequation.php
